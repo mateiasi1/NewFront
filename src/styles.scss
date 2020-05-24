@@ -1,0 +1,20 @@
+// //  
+// @import '~material-design-icons/iconfont/material-icons.css';
+// @import "@angular/material/prebuilt-themes/indigo-pink.css";
+@import '~ngx-toastr/toastr.css';
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-color: #f7f7f7; }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+.blue-snackbar {
+    background: #33ff33;
+    height: 70px !important;
+}
+
+.red-snackbar {
+    background: #F44336;
+    height: 70px !important;
+}
